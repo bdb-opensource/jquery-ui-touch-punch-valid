@@ -1,0 +1,15 @@
+{
+  "name": "jquery-ui-touch-punch-valid",
+  "version": "0.2.2",
+  "description": "Locked version for internal use inside viventium",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdb-opensource/jquery-ui-touch-punch-valid.git"
+  },
+  "author": "Viventium",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdb-opensource/jquery-ui-touch-punch-valid/issues"
+  },
+  "homepage": "https://github.com/bdb-opensource/jquery-ui-touch-punch-valid#readme"
+}
